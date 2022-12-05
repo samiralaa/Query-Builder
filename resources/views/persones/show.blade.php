@@ -1,0 +1,1 @@
+<h1>{{$persones->name}}</h1>
